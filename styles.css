@@ -146,11 +146,50 @@ body{
     justify-content: flex-end;
 }
 
-ul{
+.left ul{
     list-style-type: none;
     font-size: 20px;
     color: #E5E7EB;
     display: flex;
     gap: 20px;
     justify-content: flex-start;
+}
+
+.footer{
+    display:flex;
+    flex-direction: column;
+    margin: 10px 200px;
+    margin-top: 100px;
+    padding:10px;
+
+}
+
+.socialmedia_logo{
+    width: 25px;
+    object-fit: contain;
+    margin-right: 20px;
+}
+.info{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 150px;
+
+}
+
+.info ul{
+    object-fit: contain;
+    list-style-type: none;
+    font-size: 15px;
+    color: gray;
+    display: flex;
+    flex-direction: column;
+}
+li{
+    padding: 5px;
+}
+.copy{
+    font-size: 15px;
+    color: gray;
 }
