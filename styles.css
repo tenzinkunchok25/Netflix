@@ -10,7 +10,7 @@ body{
 .row_poster{
     /*width:100%;*/
     object-fit: contain;
-    max-height: 200px;
+    max-height: 150px;
     margin-right: 10px;
     transition: transform 450ms;
 }
@@ -30,7 +30,7 @@ body{
 }
 
 .row_posterLarge{
-    max-height: 250px;
+    max-height: 200px;
 }
 
 .row_posterLarge:hover{
@@ -40,8 +40,8 @@ body{
 .row{
     color: white;
     font-size: 12px;
-    margin-left: 20px;
-    padding: 20px;
+    margin-left: 5px;
+    padding: 20px 10px;
 }
 
 .banner{
@@ -66,7 +66,7 @@ body{
 }
 
 .banner_description{
-    width: 40rem;
+    width: 18rem;
     line-height: 1.3;
     padding-top: 1rem;
     font-size: 0.8rem;
@@ -100,6 +100,7 @@ body{
     background-image: linear-gradient(180deg, transparent, rgba(37,37,37,0.61), #111);
 }
 
+/******************************************/
 .nav_logo{
     width: 80px;
     object-fit: contain;
@@ -111,10 +112,12 @@ body{
 }
 .search_logo{
     width: 25px;
+    margin-right: 10px;
     object-fit: contain;
 }
 .notification_logo{
     width: 25px;
+    margin-right: 10px;
     object-fit: contain;
 }
 
@@ -135,34 +138,16 @@ body{
     background-color:#111;
 
 }
-.left{
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-}
-.right{
-    display: flex;
-    align-items: center;
-    gap: 25px;
-    justify-content: flex-end;
-}
-
-.left ul{
-    list-style-type: none;
-    font-size: 15px;
-    color: #E5E7EB;
-    display: flex;
-    gap: 15px;
-    justify-content: flex-start;
-}
-
+/*********************************************/
 .footer{
     display:flex;
     flex-direction: column;
-    margin: 10px 200px;
-    margin-top: 100px;
-    padding:10px;
+    margin: 20px 50px;
 
+}
+.socialmedia{
+    display: flex;
+    margin: 10px 0px;
 }
 
 .socialmedia_logo{
@@ -171,26 +156,26 @@ body{
     margin-right: 20px;
 }
 .info{
-    padding: 20px;
     display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    gap: 100px;
-
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
 }
 
 .info ul{
-    object-fit: contain;
     list-style-type: none;
     font-size: 12px;
     color: gray;
     display: flex;
     flex-direction: column;
+    margin: 0;
+    padding: 0;
 }
-li{
-    padding: 5px;
-}
+
 .copy{
     font-size: 12px;
     color: gray;
 }
+
+
+
