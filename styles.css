@@ -41,7 +41,7 @@ body{
     color: white;
     font-size: 12px;
     margin-left: 5px;
-    padding: 20px 10px;
+    padding: 20px 20px;
 }
 
 .banner{
@@ -54,7 +54,7 @@ body{
 }
 
 .banner_contents{
-    margin-left: 30px;
+    margin-left: 20px;
     padding-top: 140px;
     height: 200px;
 }
@@ -128,7 +128,7 @@ body{
     display:flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 20px 40px;
+    padding: 20px 20px;
     z-index: 1;
     transition-timing-function: ease-in;
     transition: all 0.5s;
@@ -142,7 +142,7 @@ body{
 .footer{
     display:flex;
     flex-direction: column;
-    margin: 20px 50px;
+    margin: 20px 30px;
 
 }
 .socialmedia{
