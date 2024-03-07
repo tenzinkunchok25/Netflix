@@ -1,9 +1,30 @@
-# Netflix
+<img src="images/netflix.png" alt=""Getting started>
+Netflix Clone App
 
-A clone of Netflix built using HTML and CSS
+This is a Netflix clone app created using HTML and CSS. The movie posters are sourced from The Movie Database [https://www.themoviedb.org], and the icons are from Icons8 [https://icons8.com/].
 
-Sources:
-The movie posters are from https://www.themoviedb.org,
-the icons from https://icons8.com/
+Live Demo
 
-Live Demo: https://tenzinkunchok25.github.io/netflix/
+Check out the live demo of the app [https://tenzinkunchok25.github.io/netflix/]
+
+Features
+
+Responsive design that works well on desktop and mobile devices.
+Displays a selection of movies with their posters.
+Clicking on a movie poster opens a modal with more details about the movie.
+Uses icons for a more visually appealing interface.
+How to Use
+
+Clone the repository to your local machine.
+Open the index.html file in your web browser.
+Technologies Used
+
+HTML
+CSS
+Credits
+
+Movie posters from The Movie Database (TMDb).
+Icons from Icons8.
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
