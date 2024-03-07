@@ -1,30 +1,49 @@
-<img width="1157" height="500" alt="netfllix" src="https://github.com/tenzinkunchok25/netflix/assets/148288088/20977fa1-512c-406f-a511-2f484d86a120">
+<img width="1000" height="500" alt="netfllix" src="https://github.com/tenzinkunchok25/netflix/assets/148288088/20977fa1-512c-406f-a511-2f484d86a120">
 
-<h1>Netflix Clone App</h1>
+<div>
+  <h1>Netflix Clone App</h1>
+  <p>This is a Netflix clone app created using HTML and CSS. The movie posters are sourced from <a href="https://www.themoviedb.org">The Movie Database </a>, and the icons are from <a href="https://icons8.com/">Icons8</a>.</p>
+</div>
 
-This is a Netflix clone app created using HTML and CSS. The movie posters are sourced from The Movie Database [https://www.themoviedb.org], and the icons are from Icons8 [https://icons8.com/].
+<div>
+  <h2>Live Demo</h2>
+<p>Check out the live demo of the app [https://tenzinkunchok25.github.io/netflix/]</p>
+</div>
 
-Live Demo
+<div>
+<h2>Features</h2>
+<p>
+  Responsive design that works well on desktop and mobile devices.<br>
+  Displays a selection of movies with their posters.<br>
+  Uses icons for a more visually appealing interface.
+</p>
+</div>
 
-Check out the live demo of the app [https://tenzinkunchok25.github.io/netflix/]
+<div>
+<h2>How to Use</h2>
+  <p>Clone the repository to your local machine. <br>
+Open the index.html file in your web browser.</p>
+</div>
 
-Features
-Responsive design that works well on desktop and mobile devices.
-Displays a selection of movies with their posters.
-Uses icons for a more visually appealing interface.
-
-How to Use
-Clone the repository to your local machine.
-Open the index.html file in your web browser.
-
-Technologies Used
-HTML
-CSS
+<div>
+  <h2>Technologies Used</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
+</div>
 
 
-Credits
-Movie posters from The Movie Database (TMDb).
-Icons from Icons8.
-License
+<div>
+  <h2>Credits</h2>
+  <p>
+    Movie posters from The Movie Database (TMDb).<br>
+    Icons from Icons8.
+  </p>
+</div>
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+<div>
+  <h2>License</h2>
+<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
+</div>
+
