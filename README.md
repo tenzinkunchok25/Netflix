@@ -1,4 +1,4 @@
-<img width="1157" alt="netfllix" src="https://github.com/tenzinkunchok25/netflix/assets/148288088/20977fa1-512c-406f-a511-2f484d86a120">
+<img width="1157" height="500" alt="netfllix" src="https://github.com/tenzinkunchok25/netflix/assets/148288088/20977fa1-512c-406f-a511-2f484d86a120">
 
 Netflix Clone App
 
