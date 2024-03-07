@@ -1,4 +1,5 @@
-<img src="images/netflix.png" alt=""Getting started>
+<img width="1157" alt="netfllix" src="https://github.com/tenzinkunchok25/netflix/assets/148288088/20977fa1-512c-406f-a511-2f484d86a120">
+
 Netflix Clone App
 
 This is a Netflix clone app created using HTML and CSS. The movie posters are sourced from The Movie Database [https://www.themoviedb.org], and the icons are from Icons8 [https://icons8.com/].
