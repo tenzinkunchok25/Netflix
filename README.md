@@ -7,7 +7,7 @@
 
 <div>
   <h2>Live Demo</h2>
-<p>Check out the live demo of the app [https://tenzinkunchok25.github.io/netflix/]</p>
+<p>Check out the live demo of the app <a href="https://tenzinkunchok25.github.io/netflix/">here</a></p>
 </div>
 
 <div>
